@@ -1,0 +1,20 @@
+repo_name: LaggAt/tokens
+report_id: 77200aac03f0e9f1d19c01ba1aa16b7f
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-17T13:52:10+00:00'
+requested_by: vikmeup
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/LaggAt/tokens
+  detection_source: Repo Metadata
